@@ -1,0 +1,21 @@
+body{
+	background-color: lightblue;
+}
+#first{color: lightblue;}
+#second{
+	color: blueviolet;
+	
+}
+#third{color: blueviolet;}
+#fourth{color: blueviolet;}
+#fifth{color: blueviolet;}
+#sixth{color: blueviolet;}
+
+
+img{
+	background-image: url(reg.webp);
+	background-size: cover;
+	background-repeat: no repeat;
+	
+}
+
